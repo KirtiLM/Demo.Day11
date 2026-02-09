@@ -11,6 +11,7 @@ namespace Demo.Day11
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("i am learning to push and pull");
         }
     }
 }
