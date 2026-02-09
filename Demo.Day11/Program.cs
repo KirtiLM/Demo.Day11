@@ -12,6 +12,7 @@ namespace Demo.Day11
         {
             Console.WriteLine("hello");
             Console.WriteLine("i am learning to push and pull");
+            Console.WriteLine("Git");
         }
     }
 }
